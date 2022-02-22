@@ -1,0 +1,6 @@
+// TẠI SAO VIẾT HOA VÌ CÁI NÀY LÀ HẰNG SỐ
+export const ADD_PRODUCT = "ADD_PRODUCT";
+
+export const FETCH_CREDENTIAL = "FETCH_CREDENTIALS";
+
+export const GET_PRODUCT_CAR = "GET_PRODUCT_CAR";

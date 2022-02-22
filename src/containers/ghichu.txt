@@ -1,0 +1,1 @@
+containers (screen , scennes ) là nơi chứa các component ở mức độ trang : vidu list product , login
